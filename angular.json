@@ -10,7 +10,6 @@
           "strict": true
         }
       },
-      // "root": "",
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
